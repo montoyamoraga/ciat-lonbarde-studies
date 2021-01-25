@@ -2,7 +2,7 @@
 
 ## About
 
-Ciat-Lonbarde is a 
+Ciat-Lonbarde is a line of instruments by Peter Blasser.
 
 ## Power
 
