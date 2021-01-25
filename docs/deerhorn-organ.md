@@ -2,12 +2,7 @@
 
 ## About
 
-Deerhorn Organ acquired from Patch Point in 2021.
-
-## Power
-
-9V battery
-or a power supply
+This notes are based on my Deerhorn Organ, acquired from Patch Point in 2021.mk
 
 # Audio
 
