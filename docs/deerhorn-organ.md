@@ -10,11 +10,13 @@ This notes are based on my Deerhorn Organ, acquired from Patch Point in 2021.
 
 ![Deerhorn Organ - front](../images/deerhorn-organ-front.jpg "Deerhorn Organ - front")
 
-![Deerhorn Organ - front notes](../images/deerhorn-organ-front-notes.jpg "Deerhorn Organ - front notes")
+![Deerhorn Organ - front with notes](../images/deerhorn-organ-front-notes.jpg "Deerhorn Organ - front with notes")
 
 ### Up
 
 ![Deerhorn Organ - up](../images/deerhorn-organ-up.jpg "Deerhorn Organ - up")
+
+![Deerhorn Organ - up with notes](../images/deerhorn-organ-up-notes.jpg "Deerhorn Organ - up with notes")
 
 ### Down
 
