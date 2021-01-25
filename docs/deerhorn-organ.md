@@ -1,4 +1,4 @@
-# Deerhorn Organ
+# Deerhorn organ
 
 ## About
 
@@ -6,7 +6,7 @@ This notes are based on my Deerhorn Organ, acquired from Patch Point in 2021.
 
 # Images
 
-![alt text](../images/deerhorn-organ-front.jp "quotes")
+![Deerhorn Organ - front](../images/deerhorn-organ-front.jpg "Deerhorn Organ - front")
 
 # Audio
 
