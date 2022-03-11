@@ -8,7 +8,7 @@ This is a project by Aarón Montoya-Moraga.
 
 ## Contents
 
-This repository contains one folder per instrument, each with its own Markdown file, and an images/ folder.
+This repository contains one folder per instrument, each with its own README file, and an images/ folder.
 
 * [cocoquantus-2/](cocoquantus-2)
 * [deerhorn-organ/](deerhorn-organ)
