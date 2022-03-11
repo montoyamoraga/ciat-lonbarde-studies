@@ -10,7 +10,10 @@ This is a project by Aarón Montoya-Moraga.
 
 * [docs/](docs/): Markdown files with notes
     * [ciat-lonbarde.md](docs/ciat-lonbarde.md)
+    * [cocoquantus-2.md](docs/cocoquantus-2.md)
     * [deerhorn-organ.md](docs/deerhorn-organ.md)
+    * [plumbutter-2.md](docs/plumbutter-2.md)
+    * [tetrax-organ.md](docs/tetrax-organ.md)
 * [images/](images/): .jpg files with images of the instruments
 
 ## License
