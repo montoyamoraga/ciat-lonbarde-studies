@@ -4,6 +4,17 @@
 
 This notes are based on my Deerhorn Organ, acquired from Patch Point in 2021.
 
+## Power
+
+Ciat-Lonbarde instruments can be powered with one of these two power sources:
+
+* Battery: 9 volt
+* Power supply: 12V DC, 500 mA, center positive, 2.1 mm plug
+
+## Connections
+
+Uses 1/8" stereo jacks for audio input and output, and banana jacks for patching. 
+
 ## Images
 
 ### Front

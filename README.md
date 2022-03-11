@@ -8,14 +8,13 @@ This is a project by Aarón Montoya-Moraga.
 
 ## Contents
 
-* [docs/](docs/): Markdown files with notes
-    * [ciat-lonbarde.md](docs/ciat-lonbarde.md)
-    * [cocoquantus-2.md](docs/cocoquantus-2.md)
-    * [deerhorn-organ.md](docs/deerhorn-organ.md)
-    * [gerassic-organ.md](docs/gerassic-organ.md)
-    * [plumbutter-2.md](docs/plumbutter-2.md)
-    * [tetrax-organ.md](docs/tetrax-organ.md)
-* [images/](images/): .jpg files with images of the instruments
+This repository contains one folder per instrument, each with its own Markdown file, and an images/ folder.
+
+* [cocoquantus-2/](cocoquantus-2)
+* [deerhorn-organ/](deerhorn-organ)
+* [gerassic-organ/](gerassic-organ)
+* [plumbutter-2/](plumbutter-2)
+* [tetrax-organ/](tetrax-organ)
 
 ## License
 
