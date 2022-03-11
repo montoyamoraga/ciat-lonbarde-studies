@@ -14,6 +14,8 @@ This repository contains one folder per instrument, each with its own README fil
 * [deerhorn-organ/](deerhorn-organ)
 * [gerassic-organ/](gerassic-organ)
 * [plumbutter-2/](plumbutter-2)
+* [quatrax-organ/](quatrax-organ)
+* [rolzer/](rolzer)
 * [tetrax-organ/](tetrax-organ)
 
 ## License
